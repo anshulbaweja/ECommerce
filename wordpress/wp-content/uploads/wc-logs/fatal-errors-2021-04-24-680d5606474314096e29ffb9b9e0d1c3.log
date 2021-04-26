@@ -1,0 +1,132 @@
+2021-04-24T17:42:38+00:00 CRITICAL syntax error, unexpected '$wpdb' (T_VARIABLE) in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 28
+
+2021-04-24T17:42:43+00:00 CRITICAL syntax error, unexpected '$wpdb' (T_VARIABLE) in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 28
+
+2021-04-24T17:42:43+00:00 CRITICAL syntax error, unexpected '$wpdb' (T_VARIABLE) in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 28
+
+2021-04-24T17:44:14+00:00 CRITICAL Uncaught Error: Call to undefined function regsiter_activation_hook() in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(670): include_once()
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(58): activate_plugin('form_data/form_...', 'http://localhos...', false)
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 11
+
+2021-04-24T17:44:19+00:00 CRITICAL Uncaught Error: Call to undefined function regsiter_activation_hook() in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(2300): include()
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(191): plugin_sandbox_scrape('form_data/form_...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 11
+
+2021-04-24T17:44:19+00:00 CRITICAL Uncaught Error: Call to undefined function regsiter_activation_hook() in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(2300): include()
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(191): plugin_sandbox_scrape('form_data/form_...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 11
+
+2021-04-24T17:53:47+00:00 CRITICAL Uncaught Error: Call to undefined function regsiter_activation_hook() in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(670): include_once()
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(58): activate_plugin('form_data/form_...', 'http://localhos...', false)
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 11
+
+2021-04-24T17:53:52+00:00 CRITICAL Uncaught Error: Call to undefined function regsiter_activation_hook() in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(2300): include()
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(191): plugin_sandbox_scrape('form_data/form_...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 11
+
+2021-04-24T17:53:53+00:00 CRITICAL Uncaught Error: Call to undefined function regsiter_activation_hook() in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:11
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(2300): include()
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(191): plugin_sandbox_scrape('form_data/form_...')
+#2 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 11
+
+2021-04-24T18:41:25+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate(false)
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(701): do_action('activate_form_d...', false)
+#4 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(58): activate_plugin('form_data/form_...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:41:31+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate('')
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(193): do_action('activate_form_d...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:41:31+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate('')
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(193): do_action('activate_form_d...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:43:02+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate(false)
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(701): do_action('activate_form_d...', false)
+#4 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(58): activate_plugin('form_data/form_...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:43:06+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate('')
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(193): do_action('activate_form_d...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:43:06+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate('')
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(193): do_action('activate_form_d...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:44:43+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate(false)
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\includes\plugin.php(701): do_action('activate_form_d...', false)
+#4 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(58): activate_plugin('form_data/form_...', 'http://localhos...', false)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:44:47+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate('')
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(193): do_action('activate_form_d...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+
+2021-04-24T18:44:48+00:00 CRITICAL Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:42
+Stack trace:
+#0 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(292): form_data_deactivate('')
+#1 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-admin\plugins.php(193): do_action('activate_form_d...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php on line 42
+

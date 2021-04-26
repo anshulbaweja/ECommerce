@@ -1,0 +1,6 @@
+2021-04-25T17:55:32+00:00 CRITICAL Cannot redeclare form_data_activate() (previously declared in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:15) in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\category_list\category.php on line 27
+
+2021-04-25T17:55:37+00:00 CRITICAL Cannot redeclare form_data_activate() (previously declared in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:15) in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\category_list\category.php on line 27
+
+2021-04-25T17:55:37+00:00 CRITICAL Cannot redeclare form_data_activate() (previously declared in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\form_data\form_data.php:15) in C:\xampp\htdocs\wordpress-5.6.2\wordpress\wp-content\plugins\category_list\category.php on line 27
+
